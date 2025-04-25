@@ -1,6 +1,3 @@
 # Netflix_Dataviz
 powerBI netflix veri görselleştirme çalışması
-![Screenshot_6](https://github.com/user-attachments/assets/856dc7b3-84bb-4602-8ddb-8cebcbe00af2)
-
-2011-2017 Yılları arasındaki içerikler
-![image](https://github.com/user-attachments/assets/08de7ca7-dce8-4289-9282-75163cbe170c)
+![Screenshot_7](https://github.com/user-attachments/assets/0463a18c-416f-4cd9-b3e3-11c78d41aa2f)
